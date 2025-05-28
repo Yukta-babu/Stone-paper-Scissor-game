@@ -1,0 +1,86 @@
+* {
+    background-color: rgb(60, 60, 60);
+    color: aliceblue;
+}
+
+.main {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-color: black;
+    border: 10px;
+}
+
+.round-button {
+    border-radius: 100%; 
+    background-color: black;
+    font-size: 50px;
+    padding: 40px 40px;
+    margin-left: 10px;
+}
+
+.round-button-result {
+    border-radius: 100%; 
+    background-color: black;
+    font-size: 20px;
+    padding: 40px 40px;
+    margin-left: 10px;
+}
+
+#reset-button {
+    margin-top: 30px;
+    height: 50px;
+    width: 100px;
+}
+
+.card-game {
+    margin-top: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    max-width: 500px;
+}
+
+.card-history {
+    margin-top: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+
+.card-button {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.round-button i {
+    background-color: black;
+    border-radius: 50%;
+    padding: 0px;
+    color: #ffffff;
+}
+
+.card-result {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.round-button-result i {
+    background-color: black;
+    border-radius: 50%;
+    color: #ffffff;
+}
