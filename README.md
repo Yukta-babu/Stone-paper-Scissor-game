@@ -1,2 +1,2 @@
 # Stone-paper-Scissor-game
-Stome paper scissor game website
+Stone paper scissor game website
